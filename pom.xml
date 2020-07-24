@@ -22,6 +22,7 @@
   <modules>
     <module>architecture-to-code-mapper/rule-based-mapping</module>
     <module>cnl-common/common</module>
+    <module>cnl-documentation/rule-specification</module>
     <module>cnl-toolchain</module>
     <module>cnl-verify/conformance-checking</module>
     <module>org.architecture.cnl.parent</module>

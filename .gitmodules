@@ -19,3 +19,6 @@
 [submodule "cnl-toolchain"]
 	path = cnl-toolchain
 	url = https://github.com/vhschlenker/cnl-toolchain
+[submodule "cnl-documentation"]
+	path = cnl-documentation
+	url = https://github.com/vhschlenker/cnl-documentation.git
