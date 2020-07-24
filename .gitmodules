@@ -1,0 +1,21 @@
+[submodule "architecture-to-code-mapper"]
+	path = architecture-to-code-mapper
+	url = https://github.com/vhschlenker/architecture-to-code-mapper.git
+[submodule "owlify"]
+	path = owlify
+	url = https://github.com/vhschlenker/owlify.git
+[submodule "cnl-verify"]
+	path = cnl-verify
+	url = https://github.com/vhschlenker/cnl-verify
+[submodule "org.architecture.cnl.parent"]
+	path = org.architecture.cnl.parent
+	url = https://github.com/vhschlenker/org.architecture.cnl.parent
+[submodule "stardog-connector"]
+	path = stardog-connector
+	url = https://github.com/vhschlenker/stardog-connector
+[submodule "cnl-common"]
+	path = cnl-common
+	url = https://github.com/vhschlenker/cnl-common
+[submodule "cnl-toolchain"]
+	path = cnl-toolchain
+	url = https://github.com/vhschlenker/cnl-toolchain
